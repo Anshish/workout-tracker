@@ -48,6 +48,8 @@ You also have to keep the mongodb cluster open in order to run the app properly.
 -JWT
 -Bcrypt
 
+Check demo here
+
 
 
 
